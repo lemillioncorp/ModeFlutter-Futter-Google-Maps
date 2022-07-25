@@ -1,0 +1,53 @@
+[
+  {
+    "featureType": "poi.business",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#f06060"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.government",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#5a6a2f"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.medical",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#ffae00"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#8cff00"
+      },
+      {
+        "weight": 5
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#6b6161"
+      },
+      {
+        "visibility": "on"
+      }
+    ]
+  }
+]
